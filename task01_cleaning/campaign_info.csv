@@ -1,5 +1,5 @@
 campaign_id,channel,budget
- CMP100,facebok, 8000000 
+ CMP100,facebok,8000000
 CMP101,TikTok,5tr
  CMP102,facebok,7000000
 CMP103 ,facebok,10.000.000đ
@@ -8,14 +8,14 @@ CMP105 ,Facebook,7000000
 CMP106 ,Facebook,7000000
 CMP107 ,Go ogle,7000000
  CMP108,Email,10.000.000đ
-cmp109,facebok, 8000000 
- CMP110,Google, 8000000 
+cmp109,facebok,8000000
+ CMP110,Google,8000000
 cmp111,facebok,7000000
  CMP112,TikTok,7000000
-cmp113,TikTok, 8000000 
+cmp113,TikTok,8000000
 CMP114, tiktok ,5tr
 CMP115,Email,7000000
-cmp116, tiktok , 8000000 
- CMP117,Email, 8000000 
- CMP118,Go ogle, 8000000 
+cmp116, tiktok ,8000000
+ CMP117,Email,8000000
+ CMP118,Go ogle,8000000
  CMP119,Google,5000000
